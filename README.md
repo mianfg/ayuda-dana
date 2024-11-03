@@ -20,3 +20,8 @@ Este código lo he creado viendo que la web [ayudaterra.com](https://ayudaterra.
 - [ ] Despliegue de FastAPI en AWS Lambda mediante Mangum.
 - [ ] Despliegue del frontend.
 - [ ] Caché Redis (en caso de muchas peticiones).
+
+### Machine learning
+
+- [ ] Crear un panel donde aparezcan en tiempo real las diversas necesidades (es capaz de saber cuántas personas están pidiendo cada cosa)
+- [ ] Agrupamientos de peticiones y otras optimizaciones para facilitar la búsqueda
