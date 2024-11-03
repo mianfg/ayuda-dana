@@ -1,5 +1,5 @@
 # ayuda-dana
-Aplicación web sencilla para localizar peticiones de ayuda en el mapa. Basado en [ayudaterra.com](https://ayudaterra.com).
+Aplicación web sencilla para localizar peticiones de ayuda en el mapa. Basado en [ayudaterreta.com](https://ayudaterreta.com).
 
 > [!WARNING]
 > El código que se encuentra en este repositorio está bajo construcción. Por favor, para cualquier duda o si quieres colaborar contacta conmigo en <hello@mianfg.me>
